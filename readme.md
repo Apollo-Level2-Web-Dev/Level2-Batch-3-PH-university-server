@@ -2,7 +2,7 @@
 
 ## Requirement Analysis
 
-![Requiremnet-Analysis](https://docs.google.com/document/d/10mkjS8boCQzW4xpsESyzwCCLJcM3hvLghyD_TeXPBx0/edit?usp=sharing)
+([Requirement Analysis](https://docs.google.com/document/d/10mkjS8boCQzW4xpsESyzwCCLJcM3hvLghyD_TeXPBx0/edit?usp=sharing))
 
 *Description*: This document represents the requirement analysis of part-1.
 
