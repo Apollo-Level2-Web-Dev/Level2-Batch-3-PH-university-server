@@ -19,3 +19,9 @@ Description: This is an updated diagram illustrates the relationships among User
 Description: This is a postman collection of all the API endpoints.Download this , and import it in your postman if you needed.
 
 ---
+
+### Uploading the Collection to Your Postman (If needed)
+
+1. Download the Postman collection (.json file) from the provided source.
+2. Open Postman and click on "Import" (located in the upper-left corner).
+3. Choose the downloaded file and confirm the import.
