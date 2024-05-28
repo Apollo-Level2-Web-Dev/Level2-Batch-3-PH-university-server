@@ -1,16 +1,16 @@
-### Requirement Analysis
+# Requirement Analysis and Entity-Relationship (ER) Diagram
 
-[Link to Requirement Analysis Document](https://docs.google.com/document/d/10mkjS8boCQzW4xpsESyzwCCLJcM3hvLghyD_TeXPBx0/edit?usp=sharing)
+## Requirement Analysis
 
-Description: This document outlines the detailed analysis of project requirements.
+([Requirement Analysis - 👈 Click Here](https://docs.google.com/document/d/10mkjS8boCQzW4xpsESyzwCCLJcM3hvLghyD_TeXPBx0/edit?usp=sharing))
 
----
+*Description*: This document represents the requirement analysis of part-1.
 
-### Entity-Relationship Diagrams
+## Entity-Relationship (ER) Diagram
 
-![ER DIAGRAM](./erdiagram.png)
+![UPDATED ER DIAGRAM](./Final.png)
 
-Description: This is an updated diagram illustrates the relationships among User, Student, Admin, Faculty, Academic Semester, Academic Faculty, Academic Department , Course , Semester Registration , Offered Couse.
+Description: This is an updated diagram illustrates the relationships among User, Student, Admin, Faculty, Academic Semester, Academic Faculty, Academic Department.
 
 ---
 
