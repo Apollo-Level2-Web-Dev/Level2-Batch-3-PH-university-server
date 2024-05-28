@@ -8,7 +8,7 @@
 
 ## Entity-Relationship (ER) Diagram
 
-![ER Diagram](./ER_Diagram2.png)
+![ER Diagram](./ER_Diagram.png)
 
 *Description*: This diagram represents the entities and their relationships in the system.
 
